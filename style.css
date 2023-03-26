@@ -1,6 +1,6 @@
 #text {
     color: black;
-    background-color: green;
+    background-color: beige;
     font-size: 50px;
     font-weight: bold;
     text-align: center;
@@ -10,7 +10,13 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
-    background-color: whitesmoke;
+    background-color: white;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    background-color: beige;
 }
 
 em {
@@ -18,11 +24,13 @@ em {
 }
 
 ul {
-    font-weight: 400px;
+    font-weight: bold;
+    background-color: beige;
 }
 
 img {
     height: auto;
-    width: 200px;
+    width: 300px;
+    align-content: center;
 }
 
